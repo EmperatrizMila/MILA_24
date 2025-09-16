@@ -1,2 +1,3 @@
 # MILA_24
-Primer repositorio de practica-commit
+EMPERATRIZ YACOLCA ARZAPALO
+ARQUITECTURA DE PLATAFORMAS Y STI
